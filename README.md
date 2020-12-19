@@ -1,5 +1,8 @@
 # vb-calculator
 
+## 18 March 1999
+
+### About
 ```VBA
 VERSION 4.00
 Begin VB.Form Form6 
@@ -22,4 +25,5 @@ Begin VB.Form Form6
 End
 ```
 
+### User interface
 ![Supercalculadora](http://www.gabrieltellez.mx/static/images/calc.JPG)
