@@ -1,6 +1,6 @@
 # vb-calculator
 
-## 18 March 1999
+## 18 March 1999 @ ITESM CEM, MX
 
 ### About
 
