@@ -3,6 +3,16 @@
 ## 18 March 1999
 
 ### About
+
+Gabriel Téllez (et. al) - Student ID. 453955
+
+ITESM Campus Estado de Mexico. Preparatoria PBL95.
+
+PS 95400 Grupo 10 - Introduccion a los Multimedios
+
+
+
+
 ```VBA
 VERSION 4.00
 Begin VB.Form Form6 
