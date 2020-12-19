@@ -21,3 +21,5 @@ Begin VB.Form Form6
    End
 End
 ```
+
+![Supercalculadora](http://www.gabrieltellez.mx/static/images/calc.JPG)
